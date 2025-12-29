@@ -1,6 +1,7 @@
-# Data
-data/*.csv
+# Data (keep cookie_cats.csv for Streamlit Cloud)
+# data/*.csv
 *.csv
+!data/cookie_cats.csv
 
 # Python
 __pycache__/
