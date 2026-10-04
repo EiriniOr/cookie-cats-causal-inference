@@ -1,5 +1,7 @@
 # Cookie Cats A/B Test Analysis with Causal Inference
 
+> 📁 Part of my portfolio: [see this project and more →](https://eirini-portfolio-aer3.vercel.app/?utm_source=github&utm_medium=readme&utm_campaign=cookie-cats-causal-inference#story/cookie-cats-ab-test-analysis)
+
 Analysis of the Cookie Cats mobile game A/B test using causal inference methods beyond simple hypothesis testing.
 
 ## About the Data
